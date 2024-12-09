@@ -30,4 +30,6 @@ Using OpenCV's `StereoBM` algorithm, the code computes a disparity map that high
 - The disparity map is generated and displayed in color to represent relative depth.
 
 ---
+<h2>Acknowledgements</h2>
+<p>This notebook was done under guidance of  <a href="https://github.com/Victor-Ikechukwu">Dr. Agughasi Victor Ikechukwu</a></p>
 
